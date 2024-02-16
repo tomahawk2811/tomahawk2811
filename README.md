@@ -1,13 +1,19 @@
-- 👋 Hi, I’m @tomahawk2811
-- 👀 I’m interested in Programming and Computer Science, Assembly and Binary computing.
+I am Tom Sullivan
 
-- 🌱 I’m currently learning Java and making websites.
-- 💞️ I’m looking to collaborate on big Java projects.
-- 📫 How to reach me, My email is tomahawk280111@gmail.com.
-- 🎯Aiming to master Java, C++, C#, C, mySQL, PHP, Backend Server Programming, and many more to name.
-- 💭 Ambitions to make many more projects. My biggest ambition or goal is to make my own Programming language or a massive useful project that's beneficial.
-- -  All my designs made by my own trademark Sullivan Design.
-<!---
-tomahawk2811/tomahawk2811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am based in Kelmscott, Perth, Western Australia.
+
+I do solo programming and learning in currently the C programming language and formerly Java. I have ambitions of possibly learning the C++ programming language, the C# programming language, and many more.
+
+I am highly interested in AI/Machine Learning Development.
+
+I could talk for hours about development and Machine Learning and lots of other subjects such as music or games or movies. I am very obsessed with Björk, the Icelandic singer and songwriter; she is very pretty and uses smart, conventional tactics with her music making.
+
+I have a goal to land a professional AI/Machine Learning job. Currently, this might change as I am fluidly thinking about which job I do want to land in the near future. I want to be proud of myself and to make others feel mutually the same.
+
+I am 14 years old and I am very ambitious to achieve goals and conquer mountainous terrains.
+
+You can contact me at:
+
+Linkedin: www.linkedin.com/in/tom-sullivan-59ba322b4
+
+My email is tsullivan2811@gmail.com
