@@ -16,4 +16,4 @@ You can contact me at:
 
 Linkedin: www.linkedin.com/in/tom-sullivan-59ba322b4
 
-My email is tsullivan2811@gmail.com
+My preferred email is tsullivan2811@gmail.com
