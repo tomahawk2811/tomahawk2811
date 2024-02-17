@@ -1,10 +1,11 @@
-I'm Tom Sullivan, a 14-year-old solo programmer based in Kelmscott, Perth, Western Australia. Currently into the C programming language, 
+I'm Tom Sullivan, a 14-year-old solo programmer based in Kelmscott, Perth, Western Australia. Currently into the C programming language.
+
 I have previously also used Java and have ambitions to master languages like C++ and C#.
 
-My interests revolve around AI/Machine Learning Development and I can chat for hours about development, machine learning, or dive into topics like music, games, and movies. I am particularly infatuated with Björk, the Icelandic singer and songwriter, 
-admiring her beauty and the smart, unconventional tactics she employs in her music.
+My interests revolve around AI/Machine Learning Development and I can chat for hours about development, machine learning, or dive into topics like music, games, and movies.
 
 I have a goal to land a professional AI/Machine Learning job, my career path is a dynamic journey as I explore various opportunities. 
+
 My Aim: to be proud of my accomplishments and create a mutual sense of pride in others.
 
 My ambition fuels my drive to achieve goals and conquer challenging terrains. 
