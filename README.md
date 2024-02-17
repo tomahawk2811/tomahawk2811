@@ -14,4 +14,4 @@ I am a firm believer in the power of knowledge-sharing within the tech community
 
 I am excited about the unfolding chapters of my life. Whether i could be delving deeper into machine learning algorithms, exploring new programming languages, or merging my passion for technology with other creative pursuits, I approach each endeavor with an open mind and a hunger for knowledge. As I continue to evolve as a programmer and an individual, I am committed to leaving a positive outlook on the tech industry and inspiring others to embark on their own explorations within the vast world of technology and innovation.
 
-Feel open to contact me on LinkedIn (www.linkedin.com/in/tom-sullivan-59ba322b4) or leave an email at tsullivan2811@gmail.com.
+Feel open to contact me on LinkedIn (www.linkedin.com/in/tom-sullivan-59ba322b4), Facebook (https://www.facebook.com/profile.php?id=100089995244910) or leave an email at tsullivan2811@gmail.com.
