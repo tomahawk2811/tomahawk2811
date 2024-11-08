@@ -1,4 +1,4 @@
-I'm Tom Sullivan, a 14-year-old solo programmer based in Kelmscott, Perth, Western Australia. Currently into the C programming language.
+I'm Tom Sullivan, a 16-year-old solo programmer based in Kelmscott, Perth, Western Australia. Currently into the C programming language.
 
 I have previously also used Java and have ambitions to master languages like C++ and C#.
 
